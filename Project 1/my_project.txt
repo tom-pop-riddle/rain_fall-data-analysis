@@ -1,0 +1,15 @@
+Project-title : rainfall data analysis
+
+using - PIG and HDFS
+
+about my project:-
+I have harnessed data in various aspect like
+	i)average rainfall every year
+	ii)average rainfall quartely
+	iii)average rainfall comparision between states every month
+
+what I have harnessed:-
+	1)Tourism
+	2)rabi crop
+	3)kharif crop 
+	4)Season analysis
